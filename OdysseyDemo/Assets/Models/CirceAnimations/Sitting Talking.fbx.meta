@@ -1,0 +1,1518 @@
+fileFormatVersion: 2
+guid: 230e9ab321665734789f75e88988130b
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: mixamo.com
+      takeName: mixamo.com
+      internalID: -203655887218126122
+      firstFrame: 0
+      lastFrame: 1143
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 0
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: mixamorig:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Circe(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Angular_Face
+      parentName: Circe(Clone)
+      position: {x: -0, y: 2.0449998, z: -0.0075045}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 78, y: 84.27526, z: 110}
+    - name: Back_Long_Hair_Mass
+      parentName: Circe(Clone)
+      position: {x: -0, y: 1.865, z: -0.1158584}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 110, y: 66.21628, z: 190}
+    - name: Back_Rose_Purple_Drape
+      parentName: Circe(Clone)
+      position: {x: -0, y: 0, z: -0.0075045}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Cream_Front_Dress_Panel
+      parentName: Circe(Clone)
+      position: {x: -0, y: 0, z: -0.13976836}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Crown_Leaf_0
+      parentName: Circe(Clone)
+      position: {x: -0.17200865, y: 2.19, z: 0.012473279}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 55, y: 21.670782, z: 160}
+    - name: Crown_Leaf_1
+      parentName: Circe(Clone)
+      position: {x: -0.14813529, y: 2.19, z: -0.0014260635}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 55, y: 21.670782, z: 160}
+    - name: Crown_Leaf_2
+      parentName: Circe(Clone)
+      position: {x: -0.11389737, y: 2.19, z: -0.012802448}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 55, y: 21.670782, z: 160}
+    - name: Crown_Leaf_3
+      parentName: Circe(Clone)
+      position: {x: -0.07169037, y: 2.19, z: -0.020859908}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 55, y: 21.670782, z: 160}
+    - name: Crown_Leaf_4
+      parentName: Circe(Clone)
+      position: {x: -0.024467433, y: 2.19, z: -0.025034687}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 55, y: 21.670782, z: 160}
+    - name: Crown_Leaf_5
+      parentName: Circe(Clone)
+      position: {x: 0.024467433, y: 2.19, z: -0.025034687}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 55, y: 21.670782, z: 160}
+    - name: Crown_Leaf_6
+      parentName: Circe(Clone)
+      position: {x: 0.07169037, y: 2.19, z: -0.020859908}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 55, y: 21.670782, z: 160}
+    - name: Crown_Leaf_7
+      parentName: Circe(Clone)
+      position: {x: 0.11389737, y: 2.19, z: -0.012802448}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 55, y: 21.670782, z: 160}
+    - name: Crown_Leaf_8
+      parentName: Circe(Clone)
+      position: {x: 0.14813529, y: 2.19, z: -0.0014260635}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 55, y: 21.670782, z: 160}
+    - name: Crown_Leaf_9
+      parentName: Circe(Clone)
+      position: {x: 0.17200865, y: 2.19, z: 0.012473279}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 55, y: 21.670782, z: 160}
+    - name: Diagonal_Rose_Purple_Drape
+      parentName: Circe(Clone)
+      position: {x: -0, y: 0, z: -0.062088802}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Flower_0_Petal_0
+      parentName: Circe(Clone)
+      position: {x: -0.17701608, y: 2.22, z: 0.05272886}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 70, y: 26.48651, z: 130}
+    - name: Flower_0_Petal_1
+      parentName: Circe(Clone)
+      position: {x: -0.15628658, y: 2.2409232, z: 0.05272886}
+      rotation: {x: -0.5720614, y: 0.41562706, z: -0.41562703, w: 0.57206136}
+      scale: {x: 69.99999, y: 26.48651, z: 129.99998}
+    - name: Flower_0_Petal_2
+      parentName: Circe(Clone)
+      position: {x: -0.12274556, y: 2.2329314, z: 0.05272886}
+      rotation: {x: -0.21850799, y: 0.6724985, z: -0.6724985, w: 0.21850799}
+      scale: {x: 70, y: 26.48651, z: 130}
+    - name: Flower_0_Petal_3
+      parentName: Circe(Clone)
+      position: {x: -0.12274556, y: 2.2070687, z: 0.05272886}
+      rotation: {x: -0.21850803, y: -0.6724985, z: 0.6724985, w: 0.21850811}
+      scale: {x: 70, y: 26.48651, z: 130}
+    - name: Flower_0_Petal_4
+      parentName: Circe(Clone)
+      position: {x: -0.15628658, y: 2.1990767, z: 0.05272886}
+      rotation: {x: -0.5720614, y: -0.4156269, z: 0.4156269, w: 0.5720614}
+      scale: {x: 70, y: 26.48651, z: 129.99998}
+    - name: Flower_1_Petal_0
+      parentName: Circe(Clone)
+      position: {x: -0.1511632, y: 2.2296634, z: 0.037842765}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 70, y: 26.48651, z: 130}
+    - name: Flower_1_Petal_1
+      parentName: Circe(Clone)
+      position: {x: -0.13043372, y: 2.2505865, z: 0.037842765}
+      rotation: {x: -0.5720614, y: 0.41562706, z: -0.41562703, w: 0.57206136}
+      scale: {x: 69.99999, y: 26.48651, z: 129.99998}
+    - name: Flower_1_Petal_2
+      parentName: Circe(Clone)
+      position: {x: -0.09689271, y: 2.2425945, z: 0.037842765}
+      rotation: {x: -0.21850799, y: 0.6724985, z: -0.6724985, w: 0.21850799}
+      scale: {x: 70, y: 26.48651, z: 130}
+    - name: Flower_1_Petal_3
+      parentName: Circe(Clone)
+      position: {x: -0.09689271, y: 2.216732, z: 0.037842765}
+      rotation: {x: -0.21850803, y: -0.6724985, z: 0.6724985, w: 0.21850811}
+      scale: {x: 70, y: 26.48651, z: 130}
+    - name: Flower_1_Petal_4
+      parentName: Circe(Clone)
+      position: {x: -0.13043372, y: 2.20874, z: 0.037842765}
+      rotation: {x: -0.5720614, y: -0.4156269, z: 0.4156269, w: 0.5720614}
+      scale: {x: 70, y: 26.48651, z: 129.99998}
+    - name: Flower_2_Petal_0
+      parentName: Circe(Clone)
+      position: {x: -0.11621226, y: 2.2347817, z: 0.026331767}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 70, y: 26.48651, z: 130}
+    - name: Flower_2_Petal_1
+      parentName: Circe(Clone)
+      position: {x: -0.095482774, y: 2.2557049, z: 0.026331767}
+      rotation: {x: -0.5720614, y: 0.41562706, z: -0.41562703, w: 0.57206136}
+      scale: {x: 69.99999, y: 26.48651, z: 129.99998}
+    - name: Flower_2_Petal_2
+      parentName: Circe(Clone)
+      position: {x: -0.061941754, y: 2.2477129, z: 0.026331767}
+      rotation: {x: -0.21850799, y: 0.6724985, z: -0.6724985, w: 0.21850799}
+      scale: {x: 70, y: 26.48651, z: 130}
+    - name: Flower_2_Petal_3
+      parentName: Circe(Clone)
+      position: {x: -0.061941754, y: 2.2218504, z: 0.026331767}
+      rotation: {x: -0.21850803, y: -0.6724985, z: 0.6724985, w: 0.21850811}
+      scale: {x: 70, y: 26.48651, z: 130}
+    - name: Flower_2_Petal_4
+      parentName: Circe(Clone)
+      position: {x: -0.095482774, y: 2.2138586, z: 0.026331767}
+      rotation: {x: -0.5720614, y: -0.4156269, z: 0.4156269, w: 0.5720614}
+      scale: {x: 70, y: 26.48651, z: 129.99998}
+    - name: Flower_3_Petal_0
+      parentName: Circe(Clone)
+      position: {x: -0.07478767, y: 2.232948, z: 0.01906022}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 70, y: 26.48651, z: 130}
+    - name: Flower_3_Petal_1
+      parentName: Circe(Clone)
+      position: {x: -0.054058183, y: 2.2538714, z: 0.01906022}
+      rotation: {x: -0.5720614, y: 0.41562706, z: -0.41562703, w: 0.57206136}
+      scale: {x: 69.99999, y: 26.48651, z: 129.99998}
+    - name: Flower_3_Petal_2
+      parentName: Circe(Clone)
+      position: {x: -0.020517165, y: 2.2458794, z: 0.01906022}
+      rotation: {x: -0.21850799, y: 0.6724985, z: -0.6724985, w: 0.21850799}
+      scale: {x: 70, y: 26.48651, z: 130}
+    - name: Flower_3_Petal_3
+      parentName: Circe(Clone)
+      position: {x: -0.020517165, y: 2.220017, z: 0.01906022}
+      rotation: {x: -0.21850803, y: -0.6724985, z: 0.6724985, w: 0.21850811}
+      scale: {x: 70, y: 26.48651, z: 130}
+    - name: Flower_3_Petal_4
+      parentName: Circe(Clone)
+      position: {x: -0.054058183, y: 2.212025, z: 0.01906022}
+      rotation: {x: -0.5720614, y: -0.4156269, z: 0.4156269, w: 0.5720614}
+      scale: {x: 70, y: 26.48651, z: 129.99998}
+    - name: Flower_4_Petal_0
+      parentName: Circe(Clone)
+      position: {x: -0.03, y: 2.225025, z: 0.016574146}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 70, y: 26.48651, z: 130}
+    - name: Flower_4_Petal_1
+      parentName: Circe(Clone)
+      position: {x: -0.00927051, y: 2.245948, z: 0.016574146}
+      rotation: {x: -0.5720614, y: 0.41562706, z: -0.41562703, w: 0.57206136}
+      scale: {x: 69.99999, y: 26.48651, z: 129.99998}
+    - name: Flower_4_Petal_2
+      parentName: Circe(Clone)
+      position: {x: 0.02427051, y: 2.237956, z: 0.016574146}
+      rotation: {x: -0.21850799, y: 0.6724985, z: -0.6724985, w: 0.21850799}
+      scale: {x: 70, y: 26.48651, z: 130}
+    - name: Flower_4_Petal_3
+      parentName: Circe(Clone)
+      position: {x: 0.02427051, y: 2.2120936, z: 0.016574146}
+      rotation: {x: -0.21850803, y: -0.6724985, z: 0.6724985, w: 0.21850811}
+      scale: {x: 70, y: 26.48651, z: 130}
+    - name: Flower_4_Petal_4
+      parentName: Circe(Clone)
+      position: {x: -0.00927051, y: 2.2041016, z: 0.016574146}
+      rotation: {x: -0.5720614, y: -0.4156269, z: 0.4156269, w: 0.5720614}
+      scale: {x: 70, y: 26.48651, z: 129.99998}
+    - name: Flower_5_Petal_0
+      parentName: Circe(Clone)
+      position: {x: 0.014787674, y: 2.2147384, z: 0.01906022}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 70, y: 26.48651, z: 130}
+    - name: Flower_5_Petal_1
+      parentName: Circe(Clone)
+      position: {x: 0.035517164, y: 2.2356615, z: 0.01906022}
+      rotation: {x: -0.5720614, y: 0.41562706, z: -0.41562703, w: 0.57206136}
+      scale: {x: 69.99999, y: 26.48651, z: 129.99998}
+    - name: Flower_5_Petal_2
+      parentName: Circe(Clone)
+      position: {x: 0.06905819, y: 2.2276695, z: 0.01906022}
+      rotation: {x: -0.21850799, y: 0.6724985, z: -0.6724985, w: 0.21850799}
+      scale: {x: 70, y: 26.48651, z: 130}
+    - name: Flower_5_Petal_3
+      parentName: Circe(Clone)
+      position: {x: 0.06905819, y: 2.2018068, z: 0.01906022}
+      rotation: {x: -0.21850803, y: -0.6724985, z: 0.6724985, w: 0.21850811}
+      scale: {x: 70, y: 26.48651, z: 130}
+    - name: Flower_5_Petal_4
+      parentName: Circe(Clone)
+      position: {x: 0.035517164, y: 2.193815, z: 0.01906022}
+      rotation: {x: -0.5720614, y: -0.4156269, z: 0.4156269, w: 0.5720614}
+      scale: {x: 70, y: 26.48651, z: 129.99998}
+    - name: Flower_6_Petal_0
+      parentName: Circe(Clone)
+      position: {x: 0.05621226, y: 2.206926, z: 0.026331767}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 70, y: 26.48651, z: 130}
+    - name: Flower_6_Petal_1
+      parentName: Circe(Clone)
+      position: {x: 0.07694175, y: 2.2278497, z: 0.026331767}
+      rotation: {x: -0.5720614, y: 0.41562706, z: -0.41562703, w: 0.57206136}
+      scale: {x: 69.99999, y: 26.48651, z: 129.99998}
+    - name: Flower_6_Petal_2
+      parentName: Circe(Clone)
+      position: {x: 0.110482775, y: 2.2198577, z: 0.026331767}
+      rotation: {x: -0.21850799, y: 0.6724985, z: -0.6724985, w: 0.21850799}
+      scale: {x: 70, y: 26.48651, z: 130}
+    - name: Flower_6_Petal_3
+      parentName: Circe(Clone)
+      position: {x: 0.110482775, y: 2.193995, z: 0.026331767}
+      rotation: {x: -0.21850803, y: -0.6724985, z: 0.6724985, w: 0.21850811}
+      scale: {x: 70, y: 26.48651, z: 130}
+    - name: Flower_6_Petal_4
+      parentName: Circe(Clone)
+      position: {x: 0.07694175, y: 2.1860032, z: 0.026331767}
+      rotation: {x: -0.5720614, y: -0.4156269, z: 0.4156269, w: 0.5720614}
+      scale: {x: 70, y: 26.48651, z: 129.99998}
+    - name: Flower_7_Petal_0
+      parentName: Circe(Clone)
+      position: {x: 0.0911632, y: 2.205263, z: 0.037842765}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 70, y: 26.48651, z: 130}
+    - name: Flower_7_Petal_1
+      parentName: Circe(Clone)
+      position: {x: 0.11189271, y: 2.2261865, z: 0.037842765}
+      rotation: {x: -0.5720614, y: 0.41562706, z: -0.41562703, w: 0.57206136}
+      scale: {x: 69.99999, y: 26.48651, z: 129.99998}
+    - name: Flower_7_Petal_2
+      parentName: Circe(Clone)
+      position: {x: 0.14543372, y: 2.2181945, z: 0.037842765}
+      rotation: {x: -0.21850799, y: 0.6724985, z: -0.6724985, w: 0.21850799}
+      scale: {x: 70, y: 26.48651, z: 130}
+    - name: Flower_7_Petal_3
+      parentName: Circe(Clone)
+      position: {x: 0.14543372, y: 2.192332, z: 0.037842765}
+      rotation: {x: -0.21850803, y: -0.6724985, z: 0.6724985, w: 0.21850811}
+      scale: {x: 70, y: 26.48651, z: 130}
+    - name: Flower_7_Petal_4
+      parentName: Circe(Clone)
+      position: {x: 0.11189271, y: 2.18434, z: 0.037842765}
+      rotation: {x: -0.5720614, y: -0.4156269, z: 0.4156269, w: 0.5720614}
+      scale: {x: 70, y: 26.48651, z: 129.99998}
+    - name: Flower_8_Petal_0
+      parentName: Circe(Clone)
+      position: {x: 0.11701608, y: 2.210531, z: 0.05272886}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 70, y: 26.48651, z: 130}
+    - name: Flower_8_Petal_1
+      parentName: Circe(Clone)
+      position: {x: 0.13774556, y: 2.2314541, z: 0.05272886}
+      rotation: {x: -0.5720614, y: 0.41562706, z: -0.41562703, w: 0.57206136}
+      scale: {x: 69.99999, y: 26.48651, z: 129.99998}
+    - name: Flower_8_Petal_2
+      parentName: Circe(Clone)
+      position: {x: 0.17128658, y: 2.2234623, z: 0.05272886}
+      rotation: {x: -0.21850799, y: 0.6724985, z: -0.6724985, w: 0.21850799}
+      scale: {x: 70, y: 26.48651, z: 130}
+    - name: Flower_8_Petal_3
+      parentName: Circe(Clone)
+      position: {x: 0.17128658, y: 2.1975996, z: 0.05272886}
+      rotation: {x: -0.21850803, y: -0.6724985, z: 0.6724985, w: 0.21850811}
+      scale: {x: 70, y: 26.48651, z: 130}
+    - name: Flower_8_Petal_4
+      parentName: Circe(Clone)
+      position: {x: 0.13774556, y: 2.1896079, z: 0.05272886}
+      rotation: {x: -0.5720614, y: -0.4156269, z: 0.4156269, w: 0.5720614}
+      scale: {x: 70, y: 26.48651, z: 129.99998}
+    - name: Flower_Center_0
+      parentName: Circe(Clone)
+      position: {x: -0.14701608, y: 2.22, z: 0.046709202}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Flower_Center_1
+      parentName: Circe(Clone)
+      position: {x: -0.12116321, y: 2.2296634, z: 0.031823106}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Flower_Center_2
+      parentName: Circe(Clone)
+      position: {x: -0.08621226, y: 2.2347817, z: 0.020312104}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Flower_Center_3
+      parentName: Circe(Clone)
+      position: {x: -0.04478767, y: 2.232948, z: 0.013040561}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Flower_Center_4
+      parentName: Circe(Clone)
+      position: {x: -0, y: 2.225025, z: 0.010554486}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Flower_Center_5
+      parentName: Circe(Clone)
+      position: {x: 0.04478767, y: 2.2147384, z: 0.013040561}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Flower_Center_6
+      parentName: Circe(Clone)
+      position: {x: 0.08621226, y: 2.206926, z: 0.020312104}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Flower_Center_7
+      parentName: Circe(Clone)
+      position: {x: 0.12116321, y: 2.205263, z: 0.031823106}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Flower_Center_8
+      parentName: Circe(Clone)
+      position: {x: 0.14701608, y: 2.210531, z: 0.046709202}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Front_Fringe_0
+      parentName: Circe(Clone)
+      position: {x: 0.10125, y: 2.1100001, z: 0.17609517}
+      rotation: {x: 0.4370156, y: 0.14867751, z: -0.0734979, w: 0.88403076}
+      scale: {x: 102.376366, y: 111.95389, z: 107.14446}
+    - name: Front_Fringe_0.001
+      parentName: Circe(Clone)
+      position: {x: 0.085826956, y: 2.0878189, z: 0.17609517}
+      rotation: {x: 0.4370156, y: 0.14867751, z: -0.0734979, w: 0.88403076}
+      scale: {x: 102.376366, y: 111.95389, z: 107.14446}
+    - name: Front_Fringe_1
+      parentName: Circe(Clone)
+      position: {x: 0.050624993, y: 2.1100001, z: 0.17609517}
+      rotation: {x: 0.4504651, y: 0.07633775, z: -0.038694914, w: 0.8886824}
+      scale: {x: 100.651474, y: 113.30819, z: 107.35483}
+    - name: Front_Fringe_2
+      parentName: Circe(Clone)
+      position: {x: -0.050625004, y: 2.1100001, z: 0.17609517}
+      rotation: {x: 0.4504651, y: -0.07633775, z: 0.038694914, w: 0.8886824}
+      scale: {x: 100.651474, y: 113.30819, z: 107.35483}
+    - name: Front_Fringe_2.001
+      parentName: Circe(Clone)
+      position: {x: -0.07788876, y: 2.0808601, z: 0.17609517}
+      rotation: {x: 0.4504651, y: -0.07633775, z: 0.038694914, w: 0.8886824}
+      scale: {x: 100.651474, y: 113.30819, z: 107.35483}
+    - name: Front_Fringe_3
+      parentName: Circe(Clone)
+      position: {x: -0.10125, y: 2.1100001, z: 0.17609517}
+      rotation: {x: 0.4370156, y: -0.14867751, z: 0.0734979, w: 0.88403076}
+      scale: {x: 102.376366, y: 111.95389, z: 107.14446}
+    - name: Gold_Collar_Inner_Shadow
+      parentName: Circe(Clone)
+      position: {x: -0, y: 1.782, z: -0.0075045}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Gold_Hem_Block_0
+      parentName: Circe(Clone)
+      position: {x: 0.285, y: 0.21000004, z: 0.18549596}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Gold_Hem_Block_1
+      parentName: Circe(Clone)
+      position: {x: 0.21, y: 0.21000004, z: 0.18549596}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Gold_Hem_Block_2
+      parentName: Circe(Clone)
+      position: {x: 0.135, y: 0.21000004, z: 0.18549596}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Gold_Hem_Block_3
+      parentName: Circe(Clone)
+      position: {x: 0.059999995, y: 0.21000004, z: 0.18549596}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Gold_Hem_Block_4
+      parentName: Circe(Clone)
+      position: {x: -0.015, y: 0.21000004, z: 0.18549596}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Gold_Hem_Block_5
+      parentName: Circe(Clone)
+      position: {x: -0.089999996, y: 0.21000004, z: 0.18549596}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Gold_Hem_Block_6
+      parentName: Circe(Clone)
+      position: {x: -0.16499999, y: 0.21000004, z: 0.18549596}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Gold_Hem_Block_7
+      parentName: Circe(Clone)
+      position: {x: -0.24, y: 0.21000004, z: 0.18549596}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Gold_Hem_Line_0
+      parentName: Circe(Clone)
+      position: {x: 0.255, y: 0.23000002, z: 0.18549596}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Gold_Hem_Line_1
+      parentName: Circe(Clone)
+      position: {x: 0.17999999, y: 0.23000002, z: 0.18549596}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Gold_Hem_Line_2
+      parentName: Circe(Clone)
+      position: {x: 0.105, y: 0.23000002, z: 0.18549596}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Gold_Hem_Line_3
+      parentName: Circe(Clone)
+      position: {x: 0.03, y: 0.23000002, z: 0.18549596}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Gold_Hem_Line_4
+      parentName: Circe(Clone)
+      position: {x: -0.044999998, y: 0.23000002, z: 0.18549596}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Gold_Hem_Line_5
+      parentName: Circe(Clone)
+      position: {x: -0.12, y: 0.23000002, z: 0.18549596}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Gold_Hem_Line_6
+      parentName: Circe(Clone)
+      position: {x: -0.195, y: 0.23000002, z: 0.18549596}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Gold_Hem_Line_7
+      parentName: Circe(Clone)
+      position: {x: -0.27, y: 0.23000002, z: 0.18549596}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Gold_Neck_Collar
+      parentName: Circe(Clone)
+      position: {x: -0, y: 1.78, z: -0.0075045}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 56.217457, y: 120.39323, z: 100}
+    - name: Left_Ankle_Band
+      parentName: Circe(Clone)
+      position: {x: 0.16499999, y: 0.16999996, z: -0.0075045}
+      rotation: {x: 0.000000015454313, y: -0.70710677, z: 0.000000015454312, w: 0.7071068}
+      scale: {x: 120.39323, y: 100, z: 100}
+    - name: Left_Bare_Shoulder
+      parentName: Circe(Clone)
+      position: {x: 0.35999998, y: 1.555, z: -0.0075045}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 120.00001, y: 108.3539, z: 90}
+    - name: Left_Elbow
+      parentName: Circe(Clone)
+      position: {x: 0.77, y: 1.555, z: -0.0075045}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Left_Foot
+      parentName: Circe(Clone)
+      position: {x: 0.16499999, y: 0.03999996, z: 0.07677076}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Left_Foot_Strap_A
+      parentName: Circe(Clone)
+      position: {x: 0.16499999, y: 0.10500002, z: 0.058711775}
+      rotation: {x: 0.032532983, y: 0.9574413, z: 0.11947092, w: -0.2607192}
+      scale: {x: 105.61915, y: 101.00316, z: 114.61886}
+    - name: Left_Foot_Strap_B
+      parentName: Circe(Clone)
+      position: {x: 0.16499999, y: 0.10500002, z: 0.058711775}
+      rotation: {x: -0.032532983, y: 0.9574413, z: 0.11947092, w: 0.2607192}
+      scale: {x: 105.61915, y: 101.00316, z: 114.61886}
+    - name: Left_Forearm
+      parentName: Circe(Clone)
+      position: {x: 0.92749995, y: 1.555, z: -0.0075045}
+      rotation: {x: 0.000000015454313, y: 0.70710677, z: -0.000000015454312, w: 0.7071068}
+      scale: {x: 120.39323, y: 100, z: 100}
+    - name: Left_Hand
+      parentName: Circe(Clone)
+      position: {x: 1.135, y: 1.555, z: -0.0075045}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Left_Leg_Under_Dress
+      parentName: Circe(Clone)
+      position: {x: 0.1425, y: 0.65749997, z: -0.0075045}
+      rotation: {x: 0.48435247, y: 0.5151725, z: -0.48435232, w: 0.51517266}
+      scale: {x: 120.39323, y: 99.99999, z: 99.99999}
+    - name: Left_Sandal_Sole
+      parentName: Circe(Clone)
+      position: {x: 0.16499999, y: 0.014999986, z: 0.08279042}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Left_Shin
+      parentName: Circe(Clone)
+      position: {x: 0.16, y: 0.27499998, z: -0.0075045}
+      rotation: {x: 0.4930099, y: 0.5068937, z: -0.49300885, w: 0.50689477}
+      scale: {x: 120.39323, y: 100.000015, z: 100.000015}
+    - name: Left_Shoulder_Hair_Mass
+      parentName: Circe(Clone)
+      position: {x: 0.22999999, y: 1.62, z: -0.025563482}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 75, y: 60.196613, z: 175}
+    - name: Left_Side_Hair
+      parentName: Circe(Clone)
+      position: {x: 0.145, y: 2.02, z: -0.0075045}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 80, y: 66.21628, z: 135}
+    - name: Left_Upper_Arm
+      parentName: Circe(Clone)
+      position: {x: 0.565, y: 1.555, z: -0.0075045}
+      rotation: {x: 0.000000015454313, y: 0.70710677, z: -0.000000015454312, w: 0.7071068}
+      scale: {x: 120.39323, y: 100, z: 100}
+    - name: Left_Upper_Armlet
+      parentName: Circe(Clone)
+      position: {x: 0.7526532, y: 1.5546805, z: 0.010554486}
+      rotation: {x: 0.000000015454313, y: 0.70710677, z: -0.000000015454312, w: 0.7071068}
+      scale: {x: 120.39323, y: 100, z: 100}
+    - name: Left_Wrist_Bracelet_A
+      parentName: Circe(Clone)
+      position: {x: 0.97749996, y: 1.5552491, z: -0.0075045}
+      rotation: {x: 0.000000015454313, y: 0.70710677, z: -0.000000015454312, w: 0.7071068}
+      scale: {x: 120.39323, y: 100, z: 100}
+    - name: Left_Wrist_Bracelet_B
+      parentName: Circe(Clone)
+      position: {x: 1.0425, y: 1.5552491, z: -0.0075045}
+      rotation: {x: 0.000000015454313, y: 0.70710677, z: -0.000000015454312, w: 0.7071068}
+      scale: {x: 120.39323, y: 100, z: 100}
+    - name: Long_Cream_Dress
+      parentName: Circe(Clone)
+      position: {x: -0, y: 0, z: -0.017657902}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 126.5969, z: 100}
+    - name: Long_Curl_0
+      parentName: Circe(Clone)
+      position: {x: 0.114999995, y: 2.06, z: -0.0075045}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 75, y: 66.21628, z: 165}
+    - name: Long_Curl_1
+      parentName: Circe(Clone)
+      position: {x: -0.114999995, y: 2.06, z: -0.0075045}
+      rotation: {x: -0.6929114, y: -0.14097442, z: -0.14097442, w: 0.69291145}
+      scale: {x: 77.530495, y: 64.62991, z: 165}
+    - name: Long_Curl_10
+      parentName: Circe(Clone)
+      position: {x: 0.114999995, y: 1.92, z: 0.028941061}
+      rotation: {x: -0.29883632, y: 0.6408564, z: 0.6408563, w: 0.2988363}
+      scale: {x: 84.31248, y: 59.889503, z: 165}
+    - name: Long_Curl_11
+      parentName: Circe(Clone)
+      position: {x: -0.114999995, y: 1.92, z: 0.028941061}
+      rotation: {x: -0.42060313, y: 0.5684127, z: 0.5684128, w: 0.42060316}
+      scale: {x: 89.090195, y: 56.04658, z: 165}
+    - name: Long_Curl_12
+      parentName: Circe(Clone)
+      position: {x: 0.14, y: 1.892, z: 0.040468086}
+      rotation: {x: -0.5254827, y: 0.4731469, z: 0.47314677, w: 0.52548283}
+      scale: {x: 90.14184, y: 55.134884, z: 165}
+    - name: Long_Curl_13
+      parentName: Circe(Clone)
+      position: {x: -0.14, y: 1.892, z: 0.040468086}
+      rotation: {x: -0.60926384, y: 0.35888383, z: 0.3588839, w: 0.60926384}
+      scale: {x: 86.94222, y: 57.832172, z: 165}
+    - name: Long_Curl_14
+      parentName: Circe(Clone)
+      position: {x: 0.16499999, y: 1.8639998, z: 0.022895593}
+      rotation: {x: -0.6685826, y: 0.23021139, z: 0.23021142, w: 0.6685826}
+      scale: {x: 81.13739, y: 62.203346, z: 165}
+    - name: Long_Curl_15
+      parentName: Circe(Clone)
+      position: {x: -0.16499999, y: 1.8639998, z: 0.022895593}
+      rotation: {x: -0.7010575, y: 0.092295885, z: 0.0922959, w: 0.7010574}
+      scale: {x: 76.120674, y: 65.52496, z: 165}
+    - name: Long_Curl_16
+      parentName: Circe(Clone)
+      position: {x: 0.19, y: 1.8359998, z: -0.01311719}
+      rotation: {x: -0.70538425, y: -0.049325224, z: -0.04932522, w: 0.7053844}
+      scale: {x: 75.325745, y: 66.01713, z: 165}
+    - name: Long_Curl_17
+      parentName: Circe(Clone)
+      position: {x: -0.19, y: 1.8359998, z: -0.01311719}
+      rotation: {x: -0.68138963, y: -0.18896605, z: -0.18896607, w: 0.68138963}
+      scale: {x: 79.34505, y: 63.434555, z: 165}
+    - name: Long_Curl_18
+      parentName: Circe(Clone)
+      position: {x: 0.21499999, y: 1.808, z: -0.045725387}
+      rotation: {x: -0.6300368, y: -0.32101977, z: -0.3210198, w: 0.6300367}
+      scale: {x: 85.32123, y: 59.11623, z: 165}
+    - name: Long_Curl_19
+      parentName: Circe(Clone)
+      position: {x: -0.21499999, y: 1.808, z: -0.045725387}
+      rotation: {x: -0.5533875, y: -0.44018438, z: -0.44018447, w: 0.5533874}
+      scale: {x: 89.58371, y: 55.62194, z: 165}
+    - name: Long_Curl_2
+      parentName: Circe(Clone)
+      position: {x: 0.14, y: 2.032, z: -0.04205042}
+      rotation: {x: -0.65089524, y: -0.27628866, z: -0.27628863, w: 0.65089524}
+      scale: {x: 83.26586, y: 60.67185, z: 165}
+    - name: Long_Curl_20
+      parentName: Circe(Clone)
+      position: {x: 0.114999995, y: 1.78, z: -0.05514931}
+      rotation: {x: 0.4545194, y: 0.54167527, z: 0.54167527, w: -0.45451942}
+      scale: {x: 89.87179, y: 55.371445, z: 165}
+    - name: Long_Curl_21
+      parentName: Circe(Clone)
+      position: {x: -0.114999995, y: 1.78, z: -0.05514931}
+      rotation: {x: 0.3374022, y: 0.6214176, z: 0.6214175, w: -0.3374022}
+      scale: {x: 86.04206, y: 58.55168, z: 165}
+    - name: Long_Curl_22
+      parentName: Circe(Clone)
+      position: {x: 0.14, y: 1.752, z: -0.035672527}
+      rotation: {x: 0.20673823, y: 0.67620945, z: 0.6762096, w: -0.2067382}
+      scale: {x: 80.09714, y: 62.924187, z: 165}
+    - name: Long_Curl_23
+      parentName: Circe(Clone)
+      position: {x: -0.14, y: 1.752, z: -0.035672527}
+      rotation: {x: 0.0677731, y: 0.7038514, z: 0.7038514, w: -0.0677731}
+      scale: {x: 75.61115, y: 65.841446, z: 165}
+    - name: Long_Curl_24
+      parentName: Circe(Clone)
+      position: {x: 0.16499999, y: 1.7239999, z: 0.00089060515}
+      rotation: {x: -0.073912755, y: 0.7032332, z: 0.7032332, w: 0.073912755}
+      scale: {x: 75.72507, y: 65.77099, z: 165}
+    - name: Long_Curl_25
+      parentName: Circe(Clone)
+      position: {x: -0.16499999, y: 1.7239999, z: 0.00089060515}
+      rotation: {x: -0.2126312, y: 0.67437965, z: 0.67437977, w: 0.21263121}
+      scale: {x: 80.35388, y: 62.747917, z: 165}
+    - name: Long_Curl_26
+      parentName: Circe(Clone)
+      position: {x: 0.19, y: 1.6959999, z: 0.03236138}
+      rotation: {x: -0.34281212, y: 0.61844957, z: 0.61844957, w: 0.34281215}
+      scale: {x: 86.27413, y: 58.36775, z: 165}
+    - name: Long_Curl_27
+      parentName: Circe(Clone)
+      position: {x: -0.19, y: 1.6959999, z: 0.03236138}
+      rotation: {x: -0.45922875, y: 0.53768855, z: 0.53768814, w: 0.45922917}
+      scale: {x: 89.95168, y: 55.301643, z: 165}
+    - name: Long_Curl_28
+      parentName: Circe(Clone)
+      position: {x: 0.21499999, y: 1.668, z: 0.03965005}
+      rotation: {x: -0.55720776, y: 0.43533835, z: 0.43533826, w: 0.5572079}
+      scale: {x: 89.47183, y: 55.718685, z: 165}
+    - name: Long_Curl_29
+      parentName: Circe(Clone)
+      position: {x: -0.21499999, y: 1.668, z: 0.03965005}
+      rotation: {x: -0.6328141, y: 0.31550956, z: 0.31550953, w: 0.63281417}
+      scale: {x: 85.07361, y: 59.30784, z: 165}
+    - name: Long_Curl_3
+      parentName: Circe(Clone)
+      position: {x: -0.14, y: 2.032, z: -0.04205042}
+      rotation: {x: -0.5827454, y: -0.40050963, z: -0.4005099, w: 0.582745}
+      scale: {x: 88.47873, y: 56.5651, z: 165}
+    - name: Long_Curl_30
+      parentName: Circe(Clone)
+      position: {x: 0.114999995, y: 1.64, z: 0.018335398}
+      rotation: {x: -0.68301284, y: 0.18301256, z: 0.18301259, w: 0.6830127}
+      scale: {x: 79.10147, y: 63.59793, z: 165}
+    - name: Long_Curl_31
+      parentName: Circe(Clone)
+      position: {x: -0.114999995, y: 1.64, z: 0.018335398}
+      rotation: {x: -0.70578784, y: 0.04316781, z: 0.0431678, w: 0.70578796}
+      scale: {x: 75.24991, y: 66.06363, z: 165}
+    - name: Long_Curl_32
+      parentName: Circe(Clone)
+      position: {x: 0.14, y: 1.612, z: -0.018653385}
+      rotation: {x: -0.70022523, y: -0.09841015, z: -0.098410144, w: 0.70022535}
+      scale: {x: 76.269775, y: 65.43163, z: 165}
+    - name: Long_Curl_33
+      parentName: Circe(Clone)
+      position: {x: -0.14, y: 1.612, z: -0.018653385}
+      rotation: {x: -0.6665482, y: -0.2360372, z: -0.23603728, w: 0.6665481}
+      scale: {x: 81.40191, y: 62.01722, z: 165}
+    - name: Long_Curl_34
+      parentName: Circe(Clone)
+      position: {x: 0.16499999, y: 1.5839999, z: -0.048879404}
+      rotation: {x: -0.60610884, y: -0.3641869, z: -0.364187, w: 0.6061088}
+      scale: {x: 87.15476, y: 57.65986, z: 165}
+    - name: Long_Curl_35
+      parentName: Circe(Clone)
+      position: {x: -0.16499999, y: 1.5839999, z: -0.048879404}
+      rotation: {x: -0.5213341, y: -0.47771406, z: -0.4777146, w: 0.52133363}
+      scale: {x: 90.188515, y: 55.09381, z: 165}
+    - name: Long_Curl_36
+      parentName: Circe(Clone)
+      position: {x: 0.19, y: 1.556, z: -0.05400796}
+      rotation: {x: 0.41562694, y: 0.5720614, z: 0.5720614, w: -0.4156269}
+      scale: {x: 88.948044, y: 56.16787, z: 165}
+    - name: Long_Curl_37
+      parentName: Circe(Clone)
+      position: {x: -0.19, y: 1.556, z: -0.05400796}
+      rotation: {x: 0.2932325, y: 0.64343977, z: 0.6434397, w: -0.29323253}
+      scale: {x: 84.053635, y: 60.084835, z: 165}
+    - name: Long_Curl_38
+      parentName: Circe(Clone)
+      position: {x: 0.21499999, y: 1.528, z: -0.030928139}
+      rotation: {x: 0.15906432, y: 0.6889837, z: 0.68898374, w: -0.15906432}
+      scale: {x: 78.17184, y: 64.21311, z: 165}
+    - name: Long_Curl_39
+      parentName: Circe(Clone)
+      position: {x: -0.21499999, y: 1.528, z: -0.030928139}
+      rotation: {x: 0.018509844, y: 0.7068645, z: 0.7068645, w: -0.018509848}
+      scale: {x: 75.046165, y: 66.18815, z: 165}
+    - name: Long_Curl_4
+      parentName: Circe(Clone)
+      position: {x: 0.16499999, y: 2.004, z: -0.05564125}
+      rotation: {x: 0.49119812, y: 0.5086495, z: 0.50865054, w: -0.4911973}
+      scale: {x: 90.27788, y: 55.015053, z: 165}
+    - name: Long_Curl_40
+      parentName: Circe(Clone)
+      position: {x: 0.114999995, y: 1.5, z: 0.0063601434}
+      rotation: {x: -0.12278799, y: 0.6963643, z: 0.6963642, w: 0.12278803}
+      scale: {x: 76.94636, y: 65.00425, z: 165}
+    - name: Long_Curl_41
+      parentName: Circe(Clone)
+      position: {x: -0.114999995, y: 1.5, z: 0.0063601434}
+      rotation: {x: -0.25915524, y: 0.6579047, z: 0.6579047, w: 0.25915524}
+      scale: {x: 82.467606, y: 61.25536, z: 165}
+    - name: Long_Curl_42
+      parentName: Circe(Clone)
+      position: {x: 0.14, y: 1.4719999, z: 0.035238322}
+      rotation: {x: -0.3851179, y: 0.5930297, z: 0.5930297, w: 0.38511792}
+      scale: {x: 87.94842, y: 57.00811, z: 165}
+    - name: Long_Curl_43
+      parentName: Circe(Clone)
+      position: {x: -0.14, y: 1.4719999, z: 0.035238322}
+      rotation: {x: -0.49561736, y: 0.50434464, z: 0.5043436, w: 0.49561834}
+      scale: {x: 90.290665, y: 55.003765, z: 165}
+    - name: Long_Curl_44
+      parentName: Circe(Clone)
+      position: {x: 0.16499999, y: 1.4439999, z: 0.03818928}
+      rotation: {x: -0.58621794, y: 0.39540935, z: 0.39540946, w: 0.5862178}
+      scale: {x: 88.308525, y: 56.70795, z: 165}
+    - name: Long_Curl_45
+      parentName: Circe(Clone)
+      position: {x: -0.16499999, y: 1.4439999, z: 0.03818928}
+      rotation: {x: -0.65328145, y: 0.27059814, z: 0.2705981, w: 0.65328145}
+      scale: {x: 83.00053, y: 60.86704, z: 165}
+    - name: Long_Curl_46
+      parentName: Circe(Clone)
+      position: {x: 0.19, y: 1.416, z: 0.013423005}
+      rotation: {x: -0.6941152, y: 0.13492224, z: 0.13492222, w: 0.69411534}
+      scale: {x: 77.32903, y: 64.75958, z: 165}
+    - name: Long_Curl_47
+      parentName: Circe(Clone)
+      position: {x: -0.19, y: 1.416, z: 0.013423005}
+      rotation: {x: -0.7070799, y: -0.006170913, z: -0.006170913, w: 0.7070798}
+      scale: {x: 75.00513, y: 66.21316, z: 165}
+    - name: Long_Curl_48
+      parentName: Circe(Clone)
+      position: {x: 0.21499999, y: 1.388, z: -0.024037613}
+      rotation: {x: -0.69165486, y: -0.14701565, z: -0.14701565, w: 0.6916548}
+      scale: {x: 77.73832, y: 64.49552, z: 165}
+    - name: Long_Curl_49
+      parentName: Circe(Clone)
+      position: {x: -0.21499999, y: 1.388, z: -0.024037613}
+      rotation: {x: -0.6484594, y: -0.28195822, z: -0.28195822, w: 0.6484594}
+      scale: {x: 83.53004, y: 60.476254, z: 165}
+    - name: Long_Curl_5
+      parentName: Circe(Clone)
+      position: {x: -0.16499999, y: 2.004, z: -0.05564125}
+      rotation: {x: 0.3799282, y: 0.5963678, z: 0.5963679, w: -0.37992814}
+      scale: {x: 87.75891, y: 57.164955, z: 165}
+    - name: Long_Curl_50
+      parentName: Circe(Clone)
+      position: {x: 0.114999995, y: 1.56, z: -0.051469468}
+      rotation: {x: -0.5792278, y: -0.40558, z: -0.40558004, w: 0.5792278}
+      scale: {x: 88.64218, y: 56.427307, z: 165}
+    - name: Long_Curl_51
+      parentName: Circe(Clone)
+      position: {x: -0.114999995, y: 1.56, z: -0.051469468}
+      rotation: {x: 0.48674035, y: 0.51291704, z: 0.51291704, w: -0.48674032}
+      scale: {x: 90.25657, y: 55.033848, z: 165}
+    - name: Long_Curl_52
+      parentName: Circe(Clone)
+      position: {x: 0.14, y: 1.605, z: -0.05223276}
+      rotation: {x: 0.37470952, y: 0.59966063, z: 0.5996606, w: -0.37470955}
+      scale: {x: 87.563324, y: 57.326023, z: 165}
+    - name: Long_Curl_53
+      parentName: Circe(Clone)
+      position: {x: -0.14, y: 1.605, z: -0.05223276}
+      rotation: {x: 0.24763373, y: 0.6623274, z: 0.66232735, w: -0.24763377}
+      scale: {x: 81.93385, y: 61.639336, z: 165}
+    - name: Long_Curl_54
+      parentName: Circe(Clone)
+      position: {x: 0.16499999, y: 1.65, z: -0.025864493}
+      rotation: {x: 0.11061613, y: 0.69840115, z: 0.6984011, w: -0.110616155}
+      scale: {x: 76.59256, y: 65.22855, z: 165}
+    - name: Long_Curl_55
+      parentName: Circe(Clone)
+      position: {x: -0.16499999, y: 1.65, z: -0.025864493}
+      rotation: {x: -0.030843528, y: 0.7064338, z: 0.7064338, w: 0.030843526}
+      scale: {x: 75.12792, y: 66.13825, z: 165}
+    - name: Long_Curl_56
+      parentName: Circe(Clone)
+      position: {x: 0.19, y: 1.38, z: 0.011640704}
+      rotation: {x: -0.17106476, y: 0.6861026, z: 0.6861026, w: 0.1710648}
+      scale: {x: 78.62708, y: 63.9135, z: 165}
+    - name: Long_Curl_57
+      parentName: Circe(Clone)
+      position: {x: -0.19, y: 1.38, z: 0.011640704}
+      rotation: {x: -0.30441704, y: 0.6382243, z: 0.6382243, w: 0.30441704}
+      scale: {x: 84.568924, y: 59.694733, z: 165}
+    - name: Long_Curl_58
+      parentName: Circe(Clone)
+      position: {x: 0.21499999, y: 1.425, z: 0.037532676}
+      rotation: {x: -0.42554748, y: 0.5647206, z: 0.56472075, w: 0.42554736}
+      scale: {x: 89.22495, y: 55.931183, z: 165}
+    - name: Long_Curl_59
+      parentName: Circe(Clone)
+      position: {x: -0.21499999, y: 1.425, z: 0.037532676}
+      rotation: {x: -0.52959186, y: 0.468543, z: 0.46854314, w: 0.5295917}
+      scale: {x: 90.08677, y: 55.18327, z: 165}
+    - name: Long_Curl_6
+      parentName: Circe(Clone)
+      position: {x: 0.19, y: 1.9759998, z: -0.040032975}
+      rotation: {x: 0.25340444, y: 0.660141, z: 0.6601411, w: -0.2534044}
+      scale: {x: 82.20069, y: 61.44799, z: 165}
+    - name: Long_Curl_7
+      parentName: Circe(Clone)
+      position: {x: -0.19, y: 1.9759998, z: -0.040032975}
+      rotation: {x: 0.11670625, y: 0.6974093, z: 0.6974092, w: -0.116706274}
+      scale: {x: 76.7657, y: 65.11901, z: 165}
+    - name: Long_Curl_8
+      parentName: Circe(Clone)
+      position: {x: 0.21499999, y: 1.9479998, z: -0.0046933554}
+      rotation: {x: -0.02467767, y: 0.70667607, z: 0.706676, w: 0.024677668}
+      scale: {x: 75.08197, y: 66.1663, z: 165}
+    - name: Long_Curl_9
+      parentName: Circe(Clone)
+      position: {x: -0.21499999, y: 1.9479998, z: -0.0046933554}
+      rotation: {x: -0.16507085, y: 0.6875693, z: 0.68756944, w: 0.16507083}
+      scale: {x: 78.39691, y: 64.06538, z: 165}
+    - name: Main_Hair_Crown
+      parentName: Circe(Clone)
+      position: {x: -0, y: 2.135, z: -0.025563482}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 102, y: 101.130295, z: 65}
+    - name: Neck
+      parentName: Circe(Clone)
+      position: {x: -0, y: 1.8349999, z: -0.0075045}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Nose_Tip
+      parentName: Circe(Clone)
+      position: {x: -0, y: 2.005, z: 0.13622034}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 75, y: 78.25559, z: 92.593155}
+    - name: Right_Ankle_Band
+      parentName: Circe(Clone)
+      position: {x: -0.16499999, y: 0.16999996, z: -0.0075045}
+      rotation: {x: 0.000000015454313, y: -0.70710677, z: 0.000000015454312, w: 0.7071068}
+      scale: {x: 120.39323, y: 100, z: 100}
+    - name: Right_Bare_Shoulder
+      parentName: Circe(Clone)
+      position: {x: -0.35999998, y: 1.555, z: -0.0075045}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 120.00001, y: 108.3539, z: 90}
+    - name: Right_Elbow
+      parentName: Circe(Clone)
+      position: {x: -0.77, y: 1.555, z: -0.0075045}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Right_Foot
+      parentName: Circe(Clone)
+      position: {x: -0.16499999, y: 0.03999996, z: 0.07677076}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Right_Foot_Strap_A
+      parentName: Circe(Clone)
+      position: {x: -0.16499999, y: 0.10500002, z: 0.058711775}
+      rotation: {x: 0.032532983, y: 0.9574413, z: 0.11947092, w: -0.2607192}
+      scale: {x: 105.61915, y: 101.00316, z: 114.61886}
+    - name: Right_Foot_Strap_B
+      parentName: Circe(Clone)
+      position: {x: -0.16499999, y: 0.10500002, z: 0.058711775}
+      rotation: {x: -0.032532983, y: 0.9574413, z: 0.11947092, w: 0.2607192}
+      scale: {x: 105.61915, y: 101.00316, z: 114.61886}
+    - name: Right_Forearm
+      parentName: Circe(Clone)
+      position: {x: -0.92749995, y: 1.555, z: -0.0075045}
+      rotation: {x: 0.000000015454313, y: -0.70710677, z: 0.000000015454312, w: 0.7071068}
+      scale: {x: 120.39323, y: 100, z: 100}
+    - name: Right_Hand
+      parentName: Circe(Clone)
+      position: {x: -1.135, y: 1.555, z: -0.0075045}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Right_Leg_Under_Dress
+      parentName: Circe(Clone)
+      position: {x: -0.1425, y: 0.65749997, z: -0.0075045}
+      rotation: {x: 0.48435247, y: -0.5151725, z: 0.48435232, w: 0.51517266}
+      scale: {x: 120.39323, y: 99.99999, z: 99.99999}
+    - name: Right_Sandal_Sole
+      parentName: Circe(Clone)
+      position: {x: -0.16499999, y: 0.014999986, z: 0.08279042}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Right_Shin
+      parentName: Circe(Clone)
+      position: {x: -0.16, y: 0.27499998, z: -0.0075045}
+      rotation: {x: 0.4930099, y: -0.5068937, z: 0.49300885, w: 0.50689477}
+      scale: {x: 120.39323, y: 100.000015, z: 100.000015}
+    - name: Right_Shoulder_Gold_Pin
+      parentName: Circe(Clone)
+      position: {x: 0.18363434, y: 1.545, z: 0.18171422}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 75.15573, z: 100}
+    - name: Right_Shoulder_Gold_Pin.001
+      parentName: Circe(Clone)
+      position: {x: -0.0073473486, y: 1.7101847, z: 0.12418686}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 65.262375, z: 100}
+    - name: Right_Shoulder_Hair_Mass
+      parentName: Circe(Clone)
+      position: {x: -0.22999999, y: 1.62, z: -0.025563482}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 75, y: 60.196613, z: 175}
+    - name: Right_Side_Hair
+      parentName: Circe(Clone)
+      position: {x: -0.145, y: 2.02, z: -0.0075045}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 80, y: 66.21628, z: 135}
+    - name: Right_Upper_Arm
+      parentName: Circe(Clone)
+      position: {x: -0.565, y: 1.555, z: -0.0075045}
+      rotation: {x: 0.000000015454313, y: -0.70710677, z: 0.000000015454312, w: 0.7071068}
+      scale: {x: 120.39323, y: 100, z: 100}
+    - name: Right_Upper_Armlet
+      parentName: Circe(Clone)
+      position: {x: -0.745687, y: 1.5546805, z: 0.010554486}
+      rotation: {x: 0.000000015454313, y: -0.70710677, z: 0.000000015454312, w: 0.7071068}
+      scale: {x: 120.39323, y: 100, z: 100}
+    - name: Right_Wrist_Bracelet_A
+      parentName: Circe(Clone)
+      position: {x: -0.97749996, y: 1.558684, z: -0.0075045}
+      rotation: {x: 0.000000015454313, y: -0.70710677, z: 0.000000015454312, w: 0.7071068}
+      scale: {x: 120.39323, y: 100, z: 100}
+    - name: Right_Wrist_Bracelet_B
+      parentName: Circe(Clone)
+      position: {x: -1.0425, y: 1.558684, z: -0.0075045}
+      rotation: {x: 0.000000015454313, y: -0.70710677, z: 0.000000015454312, w: 0.7071068}
+      scale: {x: 120.39323, y: 100, z: 100}
+    - name: Slim_Feminine_Body_Under_Dress
+      parentName: Circe(Clone)
+      position: {x: -0, y: 0, z: -0.0075045}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: Soft_Smile
+      parentName: Circe(Clone)
+      position: {x: -0, y: 1.935, z: 0.10612665}
+      rotation: {x: -0.7068645, y: 0.018509898, z: 0.0185099, w: 0.7068645}
+      scale: {x: 100.06153, y: 120.34209, z: 100}
+    - name: Waist_Gold_Brooch
+      parentName: Circe(Clone)
+      position: {x: -0, y: 1.01, z: 0.14315575}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 42.13763, z: 100}
+    - name: Wrapped_Purple_Waist_Cloth
+      parentName: Circe(Clone)
+      position: {x: -0, y: 0, z: -0.048347134}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 120.39323, z: 100}
+    - name: mixamorig:Hips
+      parentName: Circe(Clone)
+      position: {x: 0.00018734526, y: 1.1213984, z: -0.0067596342}
+      rotation: {x: -0.00017344159, y: 0.000024806855, z: -0.0016055662, w: 0.9999987}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine
+      parentName: mixamorig:Hips
+      position: {x: -0, y: 0.11645431, z: 0.0033915685}
+      rotation: {x: 0.014730582, y: -0.0000014313994, z: 0.0016057568, w: 0.99989027}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine1
+      parentName: mixamorig:Spine
+      position: {x: -0, y: 0.13592094, z: -9.586712e-11}
+      rotation: {x: 1.554449e-26, y: -2.275856e-14, z: 6.8301723e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine2
+      parentName: mixamorig:Spine1
+      position: {x: -0, y: 0.15533836, z: 1.021551e-10}
+      rotation: {x: 0, y: -0, z: -1.5751975e-26, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftShoulder
+      parentName: mixamorig:Spine2
+      position: {x: -0.14615823, y: 0.13042215, z: 0.0013173273}
+      rotation: {x: 0.5699432, y: -0.4200613, z: 0.56487316, w: 0.4238297}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftArm
+      parentName: mixamorig:LeftShoulder
+      position: {x: 6.4655213e-12, y: 0.30411217, z: 1.39471e-10}
+      rotation: {x: -0.14546758, y: 0.001627764, z: 0.0042756265, w: 0.98935246}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftForeArm
+      parentName: mixamorig:LeftArm
+      position: {x: -1.5073556e-10, y: 0.32166487, z: -4.218188e-10}
+      rotation: {x: 0.00000016880068, y: -0.00023276327, z: 0.00000019112083, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHand
+      parentName: mixamorig:LeftForeArm
+      position: {x: 2.1003818e-10, y: 0.25486276, z: -4.2581403e-12}
+      rotation: {x: 0.000000101474, y: -0.00006108955, z: -0.0000004810766, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandIndex1
+      parentName: mixamorig:LeftHand
+      position: {x: -2.0278711e-12, y: 0.11142043, z: 9.4905486e-11}
+      rotation: {x: -0.00000014707035, y: -0.0005802547, z: 0.00000021605491, w: 0.9999998}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandIndex2
+      parentName: mixamorig:LeftHandIndex1
+      position: {x: 6.9596304e-12, y: 0.032716334, z: 7.489092e-11}
+      rotation: {x: 0.090498, y: 0.0000001524146, z: 0.37192413, w: 0.9238412}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandIndex3
+      parentName: mixamorig:LeftHandIndex2
+      position: {x: 0.013106357, y: 0.01348332, z: -0.0031885915}
+      rotation: {x: -0.0430671, y: 0.071620405, z: 0.12581451, w: 0.9885274}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandIndex4
+      parentName: mixamorig:LeftHandIndex3
+      position: {x: 0.017258704, y: 0.01045156, z: -0.000042121643}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Neck
+      parentName: mixamorig:Spine2
+      position: {x: -0, y: 0.17475545, z: 0.0000000019437458}
+      rotation: {x: -0.014557172, y: 4.593814e-14, z: 2.266737e-13, w: 0.9998941}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Head
+      parentName: mixamorig:Neck
+      position: {x: -0, y: 0.20174743, z: 0.00023895621}
+      rotation: {x: 0, y: 0, z: 4.8139336e-28, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:HeadTop_End
+      parentName: mixamorig:Head
+      position: {x: -0, y: 0.35747558, z: 0.00042340576}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightShoulder
+      parentName: mixamorig:Spine2
+      position: {x: 0.14615823, y: 0.13042063, z: 0.0012650124}
+      rotation: {x: 0.5698412, y: 0.42013824, z: -0.5649748, w: 0.4237551}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightArm
+      parentName: mixamorig:RightShoulder
+      position: {x: -3.677929e-12, y: 0.30411217, z: 1.3955542e-10}
+      rotation: {x: -0.14547744, y: -0.0026272119, z: -0.0039470615, w: 0.9893502}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightForeArm
+      parentName: mixamorig:RightArm
+      position: {x: 7.29548e-11, y: 0.32170916, z: -1.0870252e-10}
+      rotation: {x: 0.00000010042891, y: 0.0003271865, z: -0.00000029453074, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHand
+      parentName: mixamorig:RightForeArm
+      position: {x: 1.6769709e-10, y: 0.25489637, z: 1.37714545e-11}
+      rotation: {x: 0.00000028021256, y: -0.000029537536, z: -0.00000035924904, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandIndex1
+      parentName: mixamorig:RightHand
+      position: {x: 1.9591618e-12, y: 0.14036812, z: -1.0745111e-11}
+      rotation: {x: -0.00000046503482, y: -0.018416343, z: 0.000000110119636, w: 0.9998304}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandIndex2
+      parentName: mixamorig:RightHandIndex1
+      position: {x: 1.9320546e-12, y: 0.020667097, z: -6.650683e-10}
+      rotation: {x: 0.5423976, y: 0.000000009338685, z: 0.05457726, w: 0.83834726}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandIndex3
+      parentName: mixamorig:RightHandIndex2
+      position: {x: 0.0016166149, y: 0.0071681296, z: -0.0160703}
+      rotation: {x: -0.7222713, y: 0.058574513, z: -0.046549603, w: 0.6875509}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandIndex4
+      parentName: mixamorig:RightHandIndex3
+      position: {x: 0.000071496754, y: 0.0014893425, z: 0.00077157974}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightUpLeg
+      parentName: mixamorig:Hips
+      position: {x: 0.18908174, y: -0.064696886, z: -0.020820886}
+      rotation: {x: 0.0045671645, y: 0.060128793, z: 0.99620855, w: -0.06270742}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightLeg
+      parentName: mixamorig:RightUpLeg
+      position: {x: -0, y: 0.4700613, z: 9.11406e-12}
+      rotation: {x: -0.12106795, y: 0.0066952165, z: -0.114142016, w: 0.9860372}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightFoot
+      parentName: mixamorig:RightLeg
+      position: {x: -0.0000000028352325, y: 0.5282521, z: -0.0000000034895282}
+      rotation: {x: 0.67170566, y: -0.23863898, z: 0.074214436, w: 0.69739175}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightToeBase
+      parentName: mixamorig:RightFoot
+      position: {x: 7.7788265e-10, y: 0.1971541, z: -0.000000001745527}
+      rotation: {x: 0.01773307, y: -0.001794227, z: -0.10065082, w: 0.9947622}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightToe_End
+      parentName: mixamorig:RightToeBase
+      position: {x: -5.8437016e-10, y: 0.13318388, z: -3.6390005e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftUpLeg
+      parentName: mixamorig:Hips
+      position: {x: -0.18908174, y: -0.064696886, z: 0.020032316}
+      rotation: {x: 0.00039277665, y: 0.0070679765, z: 0.99809325, w: 0.06131737}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftLeg
+      parentName: mixamorig:LeftUpLeg
+      position: {x: -0, y: 0.4700537, z: -4.7439774e-11}
+      rotation: {x: -0.059869777, y: -0.0071215397, z: 0.11821468, w: 0.991156}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftFoot
+      parentName: mixamorig:LeftLeg
+      position: {x: -0.0000000043028896, y: 0.5255574, z: 0.0000000012122727}
+      rotation: {x: 0.65650487, y: 0.1798799, z: -0.062016804, w: 0.72993046}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftToeBase
+      parentName: mixamorig:LeftFoot
+      position: {x: 0.0000000018143927, y: 0.18186992, z: -0.0000000030011715}
+      rotation: {x: 0.023626016, y: 0.0032716363, z: 0.13712792, w: 0.99026614}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftToe_End
+      parentName: mixamorig:LeftToeBase
+      position: {x: 0.0000000018368886, y: 0.13415751, z: 8.861486e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 2399bf44b5f355941b29c5391fed6dbd, type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 2
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

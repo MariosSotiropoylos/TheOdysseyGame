@@ -1,0 +1,1058 @@
+fileFormatVersion: 2
+guid: 3b324992c055bc1438e69b271733074e
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: mixamo.com
+      takeName: mixamo.com
+      internalID: -203655887218126122
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 0
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: mixamorig:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: LotusEater(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Back_Hair_Mass
+      parentName: LotusEater(Clone)
+      position: {x: -0, y: 1.9794297, z: -0.075}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 104.99999, y: 62, z: 117.99999}
+    - name: Camera
+      parentName: LotusEater(Clone)
+      position: {x: -0, y: 1.36, z: 4.3}
+      rotation: {x: 0, y: -0.9935719, z: 0.1132032, w: 0.000000029802322}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    - name: Elegant_Ivory_Robe_Body
+      parentName: LotusEater(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 86.02108, y: 100, z: 100}
+    - name: Individual_Curl_0
+      parentName: LotusEater(Clone)
+      position: {x: -0.155, y: 2.0744298, z: 0.024999999}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_10
+      parentName: LotusEater(Clone)
+      position: {x: -0.07482163, y: 2.1388192, z: -0.08350863}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_11
+      parentName: LotusEater(Clone)
+      position: {x: -0.053846024, y: 2.0941324, z: -0.09515405}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_12
+      parentName: LotusEater(Clone)
+      position: {x: -0.018683186, y: 2.0167377, z: -0.059628427}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_13
+      parentName: LotusEater(Clone)
+      position: {x: -1.0348265e-17, y: 2.0351155, z: -0.06795}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_14
+      parentName: LotusEater(Clone)
+      position: {x: 0.022058213, y: 2.1187572, z: -0.07491615}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_15
+      parentName: LotusEater(Clone)
+      position: {x: 0.047145184, y: 2.1288123, z: -0.08020154}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_16
+      parentName: LotusEater(Clone)
+      position: {x: 0.07482163, y: 2.0485885, z: -0.08350863}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_17
+      parentName: LotusEater(Clone)
+      position: {x: 0.10456271, y: 2.0112627, z: -0.08457518}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_18
+      parentName: LotusEater(Clone)
+      position: {x: 0.08805004, y: 2.078798, z: -0.045159373}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_19
+      parentName: LotusEater(Clone)
+      position: {x: 0.11206773, y: 2.1390815, z: -0.044574074}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_20
+      parentName: LotusEater(Clone)
+      position: {x: 0.13697746, y: 2.0920386, z: -0.041743297}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_21
+      parentName: LotusEater(Clone)
+      position: {x: 0.16212782, y: 2.0157635, z: -0.036549814}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_22
+      parentName: LotusEater(Clone)
+      position: {x: 0.18683122, y: 2.036878, z: -0.028931124}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_25
+      parentName: LotusEater(Clone)
+      position: {x: 0.1677678, y: 2.0465977, z: 0.013796114}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_26
+      parentName: LotusEater(Clone)
+      position: {x: 0.18299998, y: 2.0118139, z: 0.024999999}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_3
+      parentName: LotusEater(Clone)
+      position: {x: -0.1841982, y: 2.0177772, z: -0.01342144}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_30
+      parentName: LotusEater(Clone)
+      position: {x: 0.13724568, y: 2.0148556, z: 0.06461765}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_31
+      parentName: LotusEater(Clone)
+      position: {x: 0.13908428, y: 2.0386832, z: 0.077801615}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_34
+      parentName: LotusEater(Clone)
+      position: {x: 0.119861655, y: 2.0446384, z: 0.12050728}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_35
+      parentName: LotusEater(Clone)
+      position: {x: 0.10456271, y: 2.0124357, z: 0.13457519}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_36
+      parentName: LotusEater(Clone)
+      position: {x: 0.054963753, y: 2.0831468, z: 0.10471013}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_37
+      parentName: LotusEater(Clone)
+      position: {x: 0.040444348, y: 2.139387, z: 0.11524904}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_38
+      parentName: LotusEater(Clone)
+      position: {x: 0.022058213, y: 2.0877936, z: 0.12491615}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_39
+      parentName: LotusEater(Clone)
+      position: {x: 3.6188308e-17, y: 2.0140152, z: 0.15106688}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 85.74686, z: 128}
+    - name: Individual_Curl_4
+      parentName: LotusEater(Clone)
+      position: {x: -0.18683122, y: 2.0333972, z: -0.028931124}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_40
+      parentName: LotusEater(Clone)
+      position: {x: -0.025433239, y: 2.0405288, z: 0.14020386}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_41
+      parentName: LotusEater(Clone)
+      position: {x: -0.053846024, y: 2.1233199, z: 0.14515404}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_42
+      parentName: LotusEater(Clone)
+      position: {x: -0.054963753, y: 2.12495, z: 0.10471013}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_43
+      parentName: LotusEater(Clone)
+      position: {x: -0.07853822, y: 2.042713, z: 0.10730313}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_44
+      parentName: LotusEater(Clone)
+      position: {x: -0.10395585, y: 2.0131278, z: 0.107833326}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_45
+      parentName: LotusEater(Clone)
+      position: {x: -0.13063516, y: 2.0853078, z: 0.10610114}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_48
+      parentName: LotusEater(Clone)
+      position: {x: -0.13724568, y: 2.0132432, z: 0.06461765}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_49
+      parentName: LotusEater(Clone)
+      position: {x: -0.15801774, y: 2.0424128, z: 0.05796052}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_6
+      parentName: LotusEater(Clone)
+      position: {x: -0.11601916, y: 2.1299787, z: -0.031531207}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_7
+      parentName: LotusEater(Clone)
+      position: {x: -0.11206773, y: 2.0506084, z: -0.044574074}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_8
+      parentName: LotusEater(Clone)
+      position: {x: -0.10395585, y: 2.0107832, z: -0.05783332}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Individual_Curl_9
+      parentName: LotusEater(Clone)
+      position: {x: -0.09155046, y: 2.076615, z: -0.07093916}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 108.00001, y: 68, z: 128}
+    - name: Lean_Body_Under_Robe
+      parentName: LotusEater(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Left_Calf_Strap_A
+      parentName: LotusEater(Clone)
+      position: {x: 0.175, y: 0.315, z: 0}
+      rotation: {x: -0.31767753, y: -0.6317286, z: -0.3176775, w: 0.6317286}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Left_Calf_Strap_B
+      parentName: LotusEater(Clone)
+      position: {x: 0.175, y: 0.315, z: 0}
+      rotation: {x: -0.31767753, y: 0.6317286, z: 0.3176775, w: 0.6317286}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Left_Elbow_Shadow
+      parentName: LotusEater(Clone)
+      position: {x: 0.78999996, y: 1.5899999, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Left_Foot
+      parentName: LotusEater(Clone)
+      position: {x: 0.175, y: 0.044999998, z: 0.07}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Left_Foot_Strap_A
+      parentName: LotusEater(Clone)
+      position: {x: 0.175, y: 0.115499996, z: 0.055}
+      rotation: {x: 0.036818292, y: 0.9536864, z: 0.13085586, w: -0.26833466}
+      scale: {x: 100, y: 99.99999, z: 100}
+    - name: Left_Foot_Strap_B
+      parentName: LotusEater(Clone)
+      position: {x: 0.175, y: 0.115499996, z: 0.055}
+      rotation: {x: -0.036818292, y: 0.9536864, z: 0.13085586, w: 0.26833466}
+      scale: {x: 100, y: 99.99999, z: 100}
+    - name: Left_Forearm
+      parentName: LotusEater(Clone)
+      position: {x: 0.94500005, y: 1.5899999, z: 0}
+      rotation: {x: 0.000000015454313, y: 0.70710677, z: -0.000000015454312, w: 0.7071068}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Left_Knee_Shadow
+      parentName: LotusEater(Clone)
+      position: {x: 0.16499999, y: 0.47, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Left_Long_Front_Curl
+      parentName: LotusEater(Clone)
+      position: {x: 0.1325, y: 1.9544296, z: 0.125}
+      rotation: {x: 0.5017022, y: 0.3421392, z: -0.2252975, w: 0.76189023}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Left_Lower_Side_Lock
+      parentName: LotusEater(Clone)
+      position: {x: 0.1575, y: 1.8919296, z: 0.044999998}
+      rotation: {x: 0.484082, y: 0.3943745, z: -0.259073, w: 0.7368952}
+      scale: {x: 100.00001, y: 100, z: 100}
+    - name: Left_Open_Hand
+      parentName: LotusEater(Clone)
+      position: {x: 1.15, y: 1.5899999, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Left_Robe_Sleeve
+      parentName: LotusEater(Clone)
+      position: {x: 0.32999998, y: 1.5949999, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 130, y: 90, z: 90}
+    - name: Left_Sandal_Sole
+      parentName: LotusEater(Clone)
+      position: {x: 0.175, y: 0.018, z: 0.075}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Left_Shadow_Robe_Panel
+      parentName: LotusEater(Clone)
+      position: {x: -0.061070632, y: 0, z: -0.04242811}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Left_Shadow_Robe_Panel.001
+      parentName: LotusEater(Clone)
+      position: {x: 0.45254135, y: 0.20245425, z: -0.04242811}
+      rotation: {x: -0.6670723, y: -0.23455189, z: 0.23455186, w: 0.6670723}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Left_Shin
+      parentName: LotusEater(Clone)
+      position: {x: 0.17, y: 0.295, z: 0}
+      rotation: {x: 0.49280858, y: 0.50708944, z: -0.4928082, w: 0.50708985}
+      scale: {x: 100, y: 99.99999, z: 99.99999}
+    - name: Left_Side_Hair_Volume
+      parentName: LotusEater(Clone)
+      position: {x: 0.125, y: 1.9744296, z: 0.012}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 75, y: 55, z: 125}
+    - name: Left_Thigh_Under_Robe
+      parentName: LotusEater(Clone)
+      position: {x: 0.155, y: 0.65999997, z: 0}
+      rotation: {x: 0.48668304, y: 0.51297134, z: -0.48668286, w: 0.5129715}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Left_UpperArm
+      parentName: LotusEater(Clone)
+      position: {x: 0.5825, y: 1.5899999, z: 0}
+      rotation: {x: 0.000000015454313, y: 0.70710677, z: -0.000000015454312, w: 0.7071068}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Long_Narrow_Head
+      parentName: LotusEater(Clone)
+      position: {x: -0, y: 1.9744296, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 80, y: 72, z: 113}
+    - name: Long_Neck
+      parentName: LotusEater(Clone)
+      position: {x: -0, y: 1.7744296, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Lotus_Seed_Dot_0
+      parentName: LotusEater(Clone)
+      position: {x: -1.27, y: 1.5899999, z: 0.061999995}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 35, z: 100}
+    - name: Lotus_Seed_Dot_1
+      parentName: LotusEater(Clone)
+      position: {x: -1.2924457, y: 1.6181458, z: 0.061999995}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 35, z: 100}
+    - name: Lotus_Seed_Dot_2
+      parentName: LotusEater(Clone)
+      position: {x: -1.2619892, y: 1.6250973, z: 0.061999995}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 35, z: 100}
+    - name: Lotus_Seed_Dot_3
+      parentName: LotusEater(Clone)
+      position: {x: -1.2375652, y: 1.6056198, z: 0.061999995}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 35, z: 100}
+    - name: Lotus_Seed_Dot_4
+      parentName: LotusEater(Clone)
+      position: {x: -1.2375652, y: 1.5743802, z: 0.061999995}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 35, z: 100}
+    - name: Lotus_Seed_Dot_5
+      parentName: LotusEater(Clone)
+      position: {x: -1.2619892, y: 1.5549024, z: 0.061999995}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 35, z: 100}
+    - name: Lotus_Seed_Dot_6
+      parentName: LotusEater(Clone)
+      position: {x: -1.2924457, y: 1.561854, z: 0.061999995}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 35, z: 100}
+    - name: Main_Hair_Cap
+      parentName: LotusEater(Clone)
+      position: {x: -0, y: 2.0794296, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 96, y: 86, z: 62}
+    - name: Nose_Bridge
+      parentName: LotusEater(Clone)
+      position: {x: -0, y: 1.9894297, z: 0.142}
+      rotation: {x: -0.70710677, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 52, y: 82, z: 165}
+    - name: Nose_Tip
+      parentName: LotusEater(Clone)
+      position: {x: -0, y: 1.9394296, z: 0.17}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 72, y: 65, z: 72}
+    - name: Pointed_Chin_Shadow
+      parentName: LotusEater(Clone)
+      position: {x: -0, y: 1.8194296, z: 0.09555614}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 45, z: 75}
+    - name: Purple_Back_Drape_Fold_1
+      parentName: LotusEater(Clone)
+      position: {x: 0.028999997, y: 1.0849999, z: -0.15235025}
+      rotation: {x: 0.18119055, y: -0.6625123, z: 0.69598544, w: 0.20940803}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Purple_Back_Drape_Fold_2
+      parentName: LotusEater(Clone)
+      position: {x: -0.028999997, y: 1.0849999, z: -0.15235025}
+      rotation: {x: -0.18119055, y: -0.6625123, z: 0.69598544, w: -0.20940803}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Purple_Back_Drape_Fold_3
+      parentName: LotusEater(Clone)
+      position: {x: -0.09424999, y: 1.0849999, z: -0.15235025}
+      rotation: {x: -0.3374965, y: -0.5982766, z: 0.6015775, w: -0.40775695}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Right_Calf_Strap_A
+      parentName: LotusEater(Clone)
+      position: {x: -0.175, y: 0.315, z: 0}
+      rotation: {x: -0.31767753, y: -0.6317286, z: -0.3176775, w: 0.6317286}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Right_Calf_Strap_B
+      parentName: LotusEater(Clone)
+      position: {x: -0.175, y: 0.315, z: 0}
+      rotation: {x: -0.31767753, y: 0.6317286, z: 0.3176775, w: 0.6317286}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Right_Elbow_Shadow
+      parentName: LotusEater(Clone)
+      position: {x: -0.78999996, y: 1.5899999, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Right_Foot
+      parentName: LotusEater(Clone)
+      position: {x: -0.175, y: 0.044999998, z: 0.07}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Right_Foot_Strap_A
+      parentName: LotusEater(Clone)
+      position: {x: -0.175, y: 0.115499996, z: 0.055}
+      rotation: {x: 0.036818292, y: 0.9536864, z: 0.13085586, w: -0.26833466}
+      scale: {x: 100, y: 99.99999, z: 100}
+    - name: Right_Foot_Strap_B
+      parentName: LotusEater(Clone)
+      position: {x: -0.175, y: 0.115499996, z: 0.055}
+      rotation: {x: -0.036818292, y: 0.9536864, z: 0.13085586, w: 0.26833466}
+      scale: {x: 100, y: 99.99999, z: 100}
+    - name: Right_Forearm
+      parentName: LotusEater(Clone)
+      position: {x: -0.94500005, y: 1.5899999, z: 0}
+      rotation: {x: 0.000000015454313, y: -0.70710677, z: 0.000000015454312, w: 0.7071068}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Right_Hand_Holding_Lotus
+      parentName: LotusEater(Clone)
+      position: {x: -1.15, y: 1.5899999, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Right_Knee_Shadow
+      parentName: LotusEater(Clone)
+      position: {x: -0.16499999, y: 0.47, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Right_Long_Front_Curl
+      parentName: LotusEater(Clone)
+      position: {x: -0.1325, y: 1.9544296, z: 0.125}
+      rotation: {x: 0.5017022, y: -0.3421392, z: 0.2252975, w: 0.76189023}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Right_Lower_Side_Lock
+      parentName: LotusEater(Clone)
+      position: {x: -0.1575, y: 1.8919296, z: 0.044999998}
+      rotation: {x: 0.484082, y: -0.3943745, z: 0.259073, w: 0.7368952}
+      scale: {x: 100.00001, y: 100, z: 100}
+    - name: Right_Robe_Sleeve
+      parentName: LotusEater(Clone)
+      position: {x: -0.32999998, y: 1.5949999, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 130, y: 90, z: 90}
+    - name: Right_Sandal_Sole
+      parentName: LotusEater(Clone)
+      position: {x: -0.175, y: 0.018, z: 0.075}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Right_Shin
+      parentName: LotusEater(Clone)
+      position: {x: -0.17, y: 0.295, z: 0}
+      rotation: {x: 0.49280858, y: -0.50708944, z: 0.4928082, w: 0.50708985}
+      scale: {x: 100, y: 99.99999, z: 99.99999}
+    - name: Right_Side_Hair_Volume
+      parentName: LotusEater(Clone)
+      position: {x: -0.125, y: 1.9744296, z: 0.012}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 75, y: 55, z: 125}
+    - name: Right_Thigh_Under_Robe
+      parentName: LotusEater(Clone)
+      position: {x: -0.155, y: 0.65999997, z: 0}
+      rotation: {x: 0.48668304, y: -0.51297134, z: 0.48668286, w: 0.5129715}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Right_UpperArm
+      parentName: LotusEater(Clone)
+      position: {x: -0.5825, y: 1.5899999, z: 0}
+      rotation: {x: 0.000000015454313, y: -0.70710677, z: 0.000000015454312, w: 0.7071068}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Simple_Lotus_Central_Pod
+      parentName: LotusEater(Clone)
+      position: {x: -1.27, y: 1.5899999, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 82, z: 100}
+    - name: Simple_Lotus_Petal_0
+      parentName: LotusEater(Clone)
+      position: {x: -1.365, y: 1.5899999, z: 0}
+      rotation: {x: -0.5591929, y: 0, z: -0, w: 0.8290376}
+      scale: {x: 72, y: 24, z: 190}
+    - name: Simple_Lotus_Petal_1
+      parentName: LotusEater(Clone)
+      position: {x: -1.3371751, y: 1.6394975, z: 0}
+      rotation: {x: -0.51662695, y: 0.21399395, z: -0.31725895, w: 0.7659308}
+      scale: {x: 72, y: 24, z: 190}
+    - name: Simple_Lotus_Petal_2
+      parentName: LotusEater(Clone)
+      position: {x: -1.27, y: 1.66, z: 0}
+      rotation: {x: -0.39540908, y: 0.3954091, z: -0.5862181, w: 0.5862181}
+      scale: {x: 72, y: 24, z: 190}
+    - name: Simple_Lotus_Petal_3
+      parentName: LotusEater(Clone)
+      position: {x: -1.2028248, y: 1.6394975, z: 0}
+      rotation: {x: 0.21399386, y: -0.516627, z: 0.7659309, w: -0.31725883}
+      scale: {x: 72, y: 24, z: 190.00002}
+    - name: Simple_Lotus_Petal_4
+      parentName: LotusEater(Clone)
+      position: {x: -1.175, y: 1.5899999, z: 0}
+      rotation: {x: -0.00000004221789, y: -0.5591929, z: 0.8290376, w: 0.000000062590594}
+      scale: {x: 72, y: 24, z: 190}
+    - name: Simple_Lotus_Petal_5
+      parentName: LotusEater(Clone)
+      position: {x: -1.2028248, y: 1.5405025, z: 0}
+      rotation: {x: -0.21399386, y: -0.516627, z: 0.76593083, w: 0.3172588}
+      scale: {x: 72, y: 24, z: 190}
+    - name: Simple_Lotus_Petal_6
+      parentName: LotusEater(Clone)
+      position: {x: -1.27, y: 1.52, z: 0}
+      rotation: {x: -0.39540908, y: -0.3954091, z: 0.58621806, w: 0.5862182}
+      scale: {x: 72, y: 24, z: 190}
+    - name: Simple_Lotus_Petal_7
+      parentName: LotusEater(Clone)
+      position: {x: -1.3371751, y: 1.5405025, z: 0}
+      rotation: {x: -0.5166269, y: -0.2139939, z: 0.317259, w: 0.7659309}
+      scale: {x: 72, y: 24, z: 190}
+    - name: Upper_Lip
+      parentName: LotusEater(Clone)
+      position: {x: -0, y: 1.8784585, z: 0.10872499}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Viewport_Softbox
+      parentName: LotusEater(Clone)
+      position: {x: -0, y: 4.2, z: 3.8}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mixamorig:Hips
+      parentName: LotusEater(Clone)
+      position: {x: 0.0000014699915, y: 0.8971714, z: -0.011129426}
+      rotation: {x: 0.00000004192968, y: -0.00000017220049, z: -0.0000092562705, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftUpLeg
+      parentName: mixamorig:Hips
+      position: {x: -0.15033701, y: -0.078717805, z: 0.007169427}
+      rotation: {x: 0.000039567636, y: 0.006362465, z: 0.9999748, w: -0.003158553}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftLeg
+      parentName: mixamorig:LeftUpLeg
+      position: {x: 6.760573e-11, y: 0.42326307, z: -1.15863595e-11}
+      rotation: {x: -0.05020104, y: 0.00030552933, z: -0.007196936, w: 0.99871314}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftFoot
+      parentName: mixamorig:LeftLeg
+      position: {x: 0.0000000010079023, y: 0.3300745, z: 5.184161e-11}
+      rotation: {x: 0.5911136, y: -0.13419724, z: 0.062330812, w: 0.7929002}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftToeBase
+      parentName: mixamorig:LeftFoot
+      position: {x: 0.0000000015078133, y: 0.11360378, z: 2.2402852e-10}
+      rotation: {x: 0.090059265, y: 0.0067586503, z: 0.07453038, w: 0.9931208}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftToe_End
+      parentName: mixamorig:LeftToeBase
+      position: {x: 1.3069602e-10, y: 0.0513045, z: -9.023877e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightUpLeg
+      parentName: mixamorig:Hips
+      position: {x: 0.15033701, y: -0.078717805, z: 0.008530557}
+      rotation: {x: 0.0000240192, y: 0.0050177057, z: 0.9999825, w: 0.0031431098}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightLeg
+      parentName: mixamorig:RightUpLeg
+      position: {x: 1.6490063e-11, y: 0.42326388, z: 2.2545034e-11}
+      rotation: {x: -0.049197637, y: -0.00032345636, z: 0.007209008, w: 0.998763}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightFoot
+      parentName: mixamorig:RightLeg
+      position: {x: -8.1555257e-10, y: 0.33007643, z: -8.1565775e-11}
+      rotation: {x: 0.5896088, y: 0.13502753, z: -0.06408878, w: 0.7937391}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightToeBase
+      parentName: mixamorig:RightFoot
+      position: {x: -8.518981e-10, y: 0.11253607, z: -0.0000000022713533}
+      rotation: {x: 0.0911543, y: -0.006829547, z: -0.074400775, w: 0.99303013}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightToe_End
+      parentName: mixamorig:RightToeBase
+      position: {x: 3.6754044e-10, y: 0.05102076, z: -4.0588577e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine
+      parentName: mixamorig:Hips
+      position: {x: -0, y: 0.14290817, z: 0.001490848}
+      rotation: {x: 0.0052158576, y: 0.00000022047779, z: 0.0000092552455, w: 0.9999864}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine1
+      parentName: mixamorig:Spine
+      position: {x: -0, y: 0.16673507, z: -1.1847807e-10}
+      rotation: {x: 2.4239737e-26, y: -3.5514607e-14, z: 6.8252863e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine2
+      parentName: mixamorig:Spine1
+      position: {x: -0, y: 0.19055441, z: -7.7036606e-11}
+      rotation: {x: -0, y: 6.3108872e-30, z: 1.9228485e-29, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftShoulder
+      parentName: mixamorig:Spine2
+      position: {x: -0.14912352, y: 0.18901235, z: 0.00032085608}
+      rotation: {x: 0.54010624, y: -0.45657176, z: 0.538964, w: 0.4575427}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftArm
+      parentName: mixamorig:LeftShoulder
+      position: {x: -1.033825e-11, y: 0.29900578, z: -0.0000000010071275}
+      rotation: {x: -0.08249185, y: -0.00009270847, z: 0.0010716281, w: 0.9965912}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftForeArm
+      parentName: mixamorig:LeftArm
+      position: {x: 9.762187e-12, y: 0.3330814, z: -3.4618496e-11}
+      rotation: {x: 0.00000021865591, y: 0.000009507178, z: -0.00000028544122, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHand
+      parentName: mixamorig:LeftForeArm
+      position: {x: -3.2893065e-12, y: 0.28412545, z: 1.0907684e-11}
+      rotation: {x: -0.00000037669778, y: -0.00000043153477, z: 0.00000034202608, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandIndex1
+      parentName: mixamorig:LeftHand
+      position: {x: -3.0044454e-12, y: 0.3102204, z: -6.7171867e-12}
+      rotation: {x: 0.00000017859425, y: -0.23474593, z: 0.00000011454512, w: 0.9720568}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandIndex2
+      parentName: mixamorig:LeftHandIndex1
+      position: {x: -5.8118726e-10, y: 0.013897363, z: -6.8903314e-11}
+      rotation: {x: 0.04968745, y: 0.00000008953299, z: 0.06133595, w: 0.9968797}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandIndex3
+      parentName: mixamorig:LeftHandIndex2
+      position: {x: 0.0022801943, y: 0.018412253, z: -0.0018471986}
+      rotation: {x: 0.38538688, y: -0.043670755, z: 0.040398322, w: 0.92083544}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandIndex4
+      parentName: mixamorig:LeftHandIndex3
+      position: {x: 0.0013163949, y: 0.0053114146, z: -0.0068131974}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightShoulder
+      parentName: mixamorig:Spine2
+      position: {x: 0.14912352, y: 0.18901117, z: 0.00020830423}
+      rotation: {x: 0.5399132, y: 0.45673302, z: -0.5391812, w: 0.4573537}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightArm
+      parentName: mixamorig:RightShoulder
+      position: {x: 1.03496855e-11, y: 0.29900578, z: -0.0000000010071275}
+      rotation: {x: -0.08249641, y: -0.000031434018, z: -0.0006783773, w: 0.99659115}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightForeArm
+      parentName: mixamorig:RightArm
+      position: {x: -2.9489189e-12, y: 0.33308154, z: 1.8121539e-10}
+      rotation: {x: -0.00000014522273, y: 0.000015394251, z: 0.00000029126497, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHand
+      parentName: mixamorig:RightForeArm
+      position: {x: -2.3878677e-14, y: 0.28412536, z: 4.672245e-12}
+      rotation: {x: -0.00000017248952, y: -0.00010009895, z: 0.000000076121445, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandIndex1
+      parentName: mixamorig:RightHand
+      position: {x: -9.8195264e-11, y: 0.08663921, z: -4.8223966e-11}
+      rotation: {x: -0.00000026445457, y: 0.013173425, z: -0.00000014225495, w: 0.9999132}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandIndex2
+      parentName: mixamorig:RightHandIndex1
+      position: {x: -3.1029976e-10, y: 0.028893353, z: 4.7618554e-10}
+      rotation: {x: -0.1527434, y: 0.000000013151721, z: 0.19772874, w: 0.9682834}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandIndex3
+      parentName: mixamorig:RightHandIndex2
+      position: {x: 0.010505191, y: 0.024008552, z: 0.008114639}
+      rotation: {x: -0.25433603, y: 0.14520161, z: -0.1003507, w: 0.950873}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandIndex4
+      parentName: mixamorig:RightHandIndex3
+      position: {x: 0.00022081695, y: 0.0023161035, z: 0.0027912755}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Neck
+      parentName: mixamorig:Spine2
+      position: {x: -0, y: 0.21437386, z: -0.000000002869994}
+      rotation: {x: -0.005215901, y: 4.381831e-14, z: 2.2714823e-13, w: 0.9999864}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Head
+      parentName: mixamorig:Neck
+      position: {x: -0, y: 0.15378982, z: 0.0144989155}
+      rotation: {x: 0, y: -0, z: -6.23012e-37, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:HeadTop_End
+      parentName: mixamorig:Head
+      position: {x: -0, y: 0.3532504, z: 0.033303555}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: b5c5e87c44e566848a8f32e4519811d9, type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 2
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
